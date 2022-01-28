@@ -35,7 +35,7 @@ print("Number of words = ",num_of_words)
 ~~~
 
 ### OUTPUT:
-![OUTPUT](1.png)
+![OUTPUT](3.png)
 
 ![OUTPUT](2.png)
 ## RESULT:
