@@ -35,8 +35,8 @@ print("Number of words = ",num_of_words)
 ~~~
 
 ### OUTPUT:
-
 ![OUTPUT](1.png)
 
+![OUTPUT](2.png)
 ## RESULT:
 Thus the program is written to find the word count from a text file.
